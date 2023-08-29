@@ -1,6 +1,6 @@
-### Hi there 👋
-
  
+#### I am Md. Akkas Mia. I am python programmer and web developer. I am study BSC in CSE Dhaka International University. I have Completed many projects in python.
+
 **Md. Akkas Mia** is a ✨ _Specialist_ ✨ Web Application Developer, Software Back-End Developer, Website Designer.
 
 Here are some ideas to get you started:
