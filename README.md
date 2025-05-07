@@ -9,13 +9,19 @@ Here are some ideas to get you started:
 - 📖 I’m currently learning React.js, Server management, MongoDB and BSC in CSE
 
 #### Completed project:
+ - Business ERP Management
+ - Parking Management System
+ - Data Directory Management System
+ - Online Learning Management System
+ - Corporate Organization Website
  - Book Ecommerce,
  - Education management,
  - laundry management,
  - Attendance management,
  - Micro-credite accounts,
  - Doctor management,
- - ERP Management,
+ - Education ERP Management,
  - Corporate office Website.
- - Personal Website.
+ - Personal Website,
+ - Real Estate Website.
  
